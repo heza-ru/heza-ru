@@ -19,9 +19,6 @@
         <br/>
        </p>
     </td>
-    <td>
-      <a href="https://app.daily.dev/heza"><img src="https://api.daily.dev/devcards/a33e2b2c49c94e28916c7e9efcd6e839.png?r=43e" width="400" alt="Mohammad Haider's Dev Card"/></a>
-    </td>
   </tr>
 </table>
 </p>
