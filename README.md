@@ -7,9 +7,8 @@
 </div>
 
 ---
-
 <div align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fheza-ruf4ed1.png?alt=media" alt="OpBento Summary" width="800"/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fheza-ru119b8.png?alt=media" alt="OpBento Summary" width="800"/>
 </div>
 
 ---
