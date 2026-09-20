@@ -5,12 +5,9 @@
 <p align="center">
   <a href="https://haider.digital"><img src="https://img.shields.io/badge/haider.digital-F0EDE8?style=flat-square&labelColor=0A0A0A&color=F0EDE8" alt="haider.digital" /></a>
   <a href="https://www.linkedin.com/in/heza/"><img src="https://img.shields.io/badge/LinkedIn-F0EDE8?style=flat-square&labelColor=0A0A0A&color=F0EDE8" alt="LinkedIn" /></a>
-  <a href="https://github.com/FULU-Foundation/CRW-Extension"><img src="https://img.shields.io/badge/FULU-F0EDE8?style=flat-square&labelColor=0A0A0A&color=F0EDE8" alt="FULU" /></a>
 </p>
 
-### Intro
-
-**Mohammad Haider.** Engineer, designer, consultant. Enterprise sales engineering at WhatFX. Builds interactive products, demos, and open source tools.
+** Engineer, designer, consultant. Enterprise sales engineering at Whatfix. Builds interactive products, demos, and open source tools.
 
 [haider.digital](https://haider.digital) · [linkedin.com/in/heza](https://www.linkedin.com/in/heza/) · mohammadhaider325@gmail.com
 
@@ -22,13 +19,13 @@
 | **Product engineering** | React, Tauri, Go CLIs, browser extensions, MCP and agent tooling |
 | **AI workflows** | LLM features, RAG experiments, transcript-to-ticket automation |
 
-### Featured work
+### Recent Works
 
 **GitHub For the Love of Code 2025** ([winners](https://github.blog/open-source/from-karaoke-terminals-to-ai-resumes-the-winners-of-githubs-for-the-love-of-code-challenge/))  
 Contest entries: [Tuneminal](https://github.com/heza-ru/Tuneminal) (terminal karaoke, Go), [Netstalgia](https://github.com/heza-ru/Netstalgia) ([live](https://netstalgia.netlify.app/), 90s web), [GitGrill](https://github.com/heza-ru/GitGrill) (profile roast engine). Tuneminal and Netstalgia placed in *Terminal Talent* and *World Wide Wonders*.
 
 **[Disactivity](https://github.com/heza-ru/Disactivity)** · Tauri 2 + React  
-Desktop game-activity simulator. Highest-star public original on this account.
+Desktop game-activity simulator.
 
 **[TeamFlow-MCP](https://github.com/heza-ru/TeamFlow-MCP)** · TypeScript  
 MCP server for Jira, Confluence, and Productboard.
@@ -46,13 +43,11 @@ Client-side Claude assistant with local storage and cost tracking.
 ### Recognition
 
 - **GitHub For the Love of Code 2025**: global challenge winner (Tuneminal, Netstalgia)
-- **WhatFX Top Contributor (Best Sales Engineer), North America**: 2025; 2026 Q1 and Q2
-- Led technical solutioning on WhatFX largest SMB deal ($200K+) and largest enterprise deal ($1M+)
-- Secured $4M+ ARR; 40%+ POC conversion; adoption cycles cut up to 70%
+- **Whatfix Top Contributor (Best Sales Engineer), North America**: 2025; 2026 Q1 and Q2
 
 ### Stack
 
-`TypeScript` · `React` · `Next.js` · `Node.js` · `Go` · `Python` · `Tauri` · `SQL` · REST / webhooks · Salesforce · Workday
+`TypeScript` · `React` · `Next.js` · `Node.js` · `Go` · `Python` · `Tauri` · `SQL` 
 
 ### Activity
 
@@ -81,20 +76,11 @@ Client-side Claude assistant with local storage and cost tracking.
       <img width="100%" src="./metrics.people.svg" alt="Followers and following" />
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img width="100%" src="./metrics.notable.svg" alt="Notable contributions including FULU" />
-    </td>
-    <td width="50%" valign="top">
-      <img width="100%" src="./metrics.calendar.svg" alt="Commit calendar" />
-    </td>
-  </tr>
 </table>
 
 ### Connect
 
 | | |
-|---|---|
 | **Site** | [haider.digital](https://haider.digital) |
 | **LinkedIn** | [linkedin.com/in/heza](https://www.linkedin.com/in/heza/) |
 | **Email** | mohammadhaider325@gmail.com |
