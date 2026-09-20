@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/heza/"><img src="https://img.shields.io/badge/LinkedIn-F0EDE8?style=flat-square&labelColor=0A0A0A&color=F0EDE8" alt="LinkedIn" /></a>
 </p>
 
-** Engineer, designer, consultant. Enterprise sales engineering at Whatfix. Builds interactive products, demos, and open source tools.
+**Engineer, designer, consultant.** Enterprise sales engineering at Whatfix. Builds interactive products, demos, and open source tools.
 
 [haider.digital](https://haider.digital) · [linkedin.com/in/heza](https://www.linkedin.com/in/heza/) · mohammadhaider325@gmail.com
 
@@ -47,7 +47,7 @@ Client-side Claude assistant with local storage and cost tracking.
 
 ### Stack
 
-`TypeScript` · `React` · `Next.js` · `Node.js` · `Go` · `Python` · `Tauri` · `SQL` 
+`TypeScript` · `React` · `Next.js` · `Node.js` · `Go` · `Python` · `Tauri` · `SQL`
 
 ### Activity
 
@@ -57,7 +57,7 @@ Client-side Claude assistant with local storage and cost tracking.
       <img width="100%" src="./metrics.svg" alt="GitHub metrics" />
     </td>
     <td width="50%" valign="top">
-      <img width="100%" src="./metrics.stargazers.svg" alt="Stargazers over time — Disactivity and FTLoC interest" />
+      <img width="100%" src="./metrics.stargazers.svg" alt="Stargazers over time - Disactivity and FTLoC interest" />
     </td>
   </tr>
   <tr>
@@ -81,12 +81,12 @@ Client-side Claude assistant with local storage and cost tracking.
 ### Connect
 
 <p align="center">
-  <img src="connect.svg" alt="Connect — Let’s build something." width="100%" />
+  <img src="connect.svg" alt="Connect - Let's build something." width="100%" />
 </p>
 
 <p align="center">
   <a href="https://haider.digital"><img src="https://img.shields.io/badge/SITE-haider.digital-F0EDE8?style=for-the-badge&labelColor=0A0A0A&color=F0EDE8" alt="haider.digital" /></a>
   <a href="https://www.linkedin.com/in/heza/"><img src="https://img.shields.io/badge/LINKEDIN-heza-F0EDE8?style=for-the-badge&labelColor=0A0A0A&color=F0EDE8" alt="LinkedIn" /></a>
-  <a href="mailto:mohammadhaider325@gmail.com"><img src="https://img.shields.io/badge/EMAIL-mohammadhaider325%40gmail.com-F0EDE8?style=for-the-badge&labelColor=0A0A0A&color=F0EDE8" alt="Email" /></a>
+  <a href="mailto:mohammadhaider325@gmail.com"><img src="https://img.shields.io/badge/EMAIL-gmail-F0EDE8?style=for-the-badge&labelColor=0A0A0A&color=F0EDE8" alt="Email" /></a>
   <a href="https://github.com/heza-ru"><img src="https://img.shields.io/badge/GITHUB-heza--ru-F0EDE8?style=for-the-badge&labelColor=0A0A0A&color=F0EDE8" alt="GitHub" /></a>
 </p>
