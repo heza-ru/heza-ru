@@ -271,22 +271,22 @@ footer {
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="293.28575037751034" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="293.28575037751034" y="0" width="131.17585233146303" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="424.4616027089733" y="0" width="11.960951334559775" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="436.42255404353307" y="0" width="8.377542424222927" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="444.800096467756" y="0" width="7.91708408764984" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="452.7171805554059" y="0" width="3.0463531288879455" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="455.7635336842938" y="0" width="2.949857465091874" height="8" fill="#7355dd"/>
-                    <rect mask="url(#languages-bar)" x="458.7133911493857" y="0" width="1.2866088506142843" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#3A3834"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="293.28575037751034" height="8" fill="#F0EDE8"/>
+                    <rect mask="url(#languages-bar)" x="293.28575037751034" y="0" width="131.17585233146303" height="8" fill="#C8C4BC"/>
+                    <rect mask="url(#languages-bar)" x="424.4616027089733" y="0" width="11.960951334559775" height="8" fill="#6E6A63"/>
+                    <rect mask="url(#languages-bar)" x="436.42255404353307" y="0" width="8.377542424222927" height="8" fill="#A8A49A"/>
+                    <rect mask="url(#languages-bar)" x="444.800096467756" y="0" width="7.91708408764984" height="8" fill="#A8A49A"/>
+                    <rect mask="url(#languages-bar)" x="452.7171805554059" y="0" width="3.0463531288879455" height="8" fill="#8A8680"/>
+                    <rect mask="url(#languages-bar)" x="455.7635336842938" y="0" width="2.949857465091874" height="8" fill="#8A8680"/>
+                    <rect mask="url(#languages-bar)" x="458.7133911493857" y="0" width="1.2866088506142843" height="8" fill="#A8A49A"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#F0EDE8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 TypeScript
                             </div>
@@ -298,7 +298,7 @@ footer {
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#6E6A63" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 CSS
                             </div>
@@ -310,7 +310,7 @@ footer {
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#A8A49A" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 Go
                             </div>
@@ -322,7 +322,7 @@ footer {
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#7355dd" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#8A8680" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 C#
                             </div>
@@ -336,7 +336,7 @@ footer {
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#C8C4BC" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 JavaScript
                             </div>
@@ -348,7 +348,7 @@ footer {
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#A8A49A" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 HTML
                             </div>
@@ -360,7 +360,7 @@ footer {
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#8A8680" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 Rust
                             </div>
@@ -372,7 +372,7 @@ footer {
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#A8A49A" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 Python
                             </div>
