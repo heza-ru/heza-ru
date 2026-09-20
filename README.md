@@ -60,13 +60,14 @@ Client-side Claude assistant with local storage and cost tracking.
 
 ### Activity
 
+<!-- Official github-readme-stats / activity-graph Vercel apps are paused/disabled; use working mirrors. -->
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=heza-ru&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=F0EDE8&text_color=F0EDE8&icon_color=F0EDE8&ring_color=F0EDE8" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heza-ru&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=F0EDE8&text_color=F0EDE8" alt="Top languages" />
+  <img height="160" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=heza-ru&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=F0EDE8&text_color=F0EDE8&icon_color=F0EDE8&ring_color=F0EDE8" alt="GitHub stats" />
+  <img height="160" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=heza-ru&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=F0EDE8&text_color=F0EDE8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=heza-ru&bg_color=0A0A0A&color=F0EDE8&line=F0EDE8&point=F0EDE8&area=true&hide_border=true&custom_title=Activity" alt="Contribution activity graph" />
+  <img width="100%" src="https://ghchart.rshah.org/F0EDE8/heza-ru" alt="GitHub contribution chart" />
 </p>
 
 ### Connect
