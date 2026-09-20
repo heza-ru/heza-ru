@@ -1,15 +1,29 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2000&pause=0&color=00D8FF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=150&lines=+███╗+++███╗+██████╗+██╗++██╗+█████╗+███╗+++███╗+███╗+++███╗+█████╗+██████╗;████╗+████║+██╔═══██╗██║++██║██╔══██╗████╗+████║+████╗+████║██╔══██╗██╔══██╗;██╔████╔██║+██║+++██║███████║███████║██╔████╔██║+██╔████╔██║███████║██║++██║;██║╚██╔╝██║+██║+++██║██╔══██║██╔══██║██║╚██╔╝██║+██║╚██╔╝██║██╔══██║██║++██║;██║+╚═╝+██║+╚██████╔╝██║++██║██║++██║██║+╚═╝+██║+██║+╚═╝+██║██║++██║██████╔╝;╚═╝+++++╚═╝++╚═════╝+╚═╝++╚═╝╚═╝++╚═╝╚═╝+++++╚═╝+╚═╝+++++╚═╝╚═╝++╚═╝╚═════╝)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2000&pause=0&color=00D8FF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=150&lines=+███╗+++███╗+██████╗+██╗++██╗+█████╗+███╗+++███╗+███╗+++███╗+█████╗+██████╗;████╗+████║+██╔═══██╗██║++██║██╔══██╗████╗+████║+████╗+████║██╔══██╗██╔══██╗;██╔████╔██║+██║+++██║███████║███████║██╔████╔██║+██╔████╔██║███████║██║++██║;██║╚██╔╝██║+██║+++██║██╔══██║██╔══██║██║╚██╔╝██║+██║╚██╔╝██║██╔══██║██║++██║;██║+╚═╝+██║+╚██████╔╝██║++██║██║++██║██║+╚═╝+██║+██║+╚═╝+██║██║++██║██████╔╝;╚═╝+++++╚═╝++╚═════╝+╚═╝++╚═╝╚═╝++╚═╝╚═╝+++++╚═╝+╚═╝+++++╚═╝╚═╝++╚═╝)](https://git.io/typing-svg)
 
 <h3>Mohammad Haider · Full-Stack Dev</h3>
+
+<p>Enjoying building fun little things</p>
+
+<p>
+  <a href="https://haider.digital">haider.digital</a>
+  ·
+  <a href="https://www.linkedin.com/in/heza/">LinkedIn</a>
+</p>
 
 </div>
 
 ---
-<div align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fheza-ru119b8.png?alt=media" alt="OpBento Summary" width="800"/>
-</div>
+
+### Featured
+
+- **[Disactivity](https://github.com/heza-ru/Disactivity)** — Desktop game activity simulator built with Tauri 2 + React
+- **[Netstalgia](https://github.com/heza-ru/Netstalgia)** — A lovingly cursed 90s-style web app ([live](https://netstalgia.netlify.app/))
+- **[Tuneminal](https://github.com/heza-ru/Tuneminal)** — Karaoke machine that runs in your terminal (Go)
+- **[TeamFlow-MCP](https://github.com/heza-ru/TeamFlow-MCP)** — MCP server for Jira, Confluence, and Productboard workflows
+
+*GitHub [For the Love of Code](https://github.blog/open-source/from-karaoke-terminals-to-ai-resumes-the-winners-of-githubs-for-the-love-of-code-challenge/) winner — Tuneminal & Netstalgia*
 
 ---
 
@@ -41,7 +55,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-haider-heza">
+  <a href="https://www.linkedin.com/in/heza/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
