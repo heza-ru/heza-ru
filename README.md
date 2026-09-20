@@ -56,13 +56,40 @@ Client-side Claude assistant with local storage and cost tracking.
 
 ### Activity
 
-<p align="center">
-  <img width="100%" src="./metrics.svg" alt="GitHub metrics" />
-</p>
-
-<p align="center">
-  <img width="100%" src="./metrics.isocalendar.svg" alt="Isometric commit calendar" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img width="100%" src="./metrics.svg" alt="GitHub metrics" />
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" src="./metrics.stargazers.svg" alt="Stargazers over time — Disactivity and FTLoC interest" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img width="100%" src="./metrics.isocalendar.svg" alt="Isometric commit calendar" />
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" src="./metrics.code.svg" alt="Random code snippet from Tuneminal" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img width="100%" src="./metrics.followup.svg" alt="Follow-up of issues and pull requests" />
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" src="./metrics.people.svg" alt="Followers and following" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img width="100%" src="./metrics.notable.svg" alt="Notable contributions including FULU" />
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" src="./metrics.calendar.svg" alt="Commit calendar" />
+    </td>
+  </tr>
+</table>
 
 ### Connect
 
