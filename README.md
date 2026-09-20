@@ -10,7 +10,7 @@
 
 ### Intro
 
-**Mohammad Haider.** Engineer, designer, consultant. Enterprise sales engineering at Whatfix. Builds interactive products, demos, and open source tools.
+**Mohammad Haider.** Engineer, designer, consultant. Enterprise sales engineering at WhatFX. Builds interactive products, demos, and open source tools.
 
 [haider.digital](https://haider.digital) · [linkedin.com/in/heza](https://www.linkedin.com/in/heza/) · mohammadhaider325@gmail.com
 
@@ -52,22 +52,16 @@ Client-side Claude assistant with local storage and cost tracking.
 
 ### Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,go,python,tailwind,figma&theme=dark" alt="TypeScript JavaScript React Next.js Node Go Python Tailwind Figma" />
-</p>
-
 `TypeScript` · `React` · `Next.js` · `Node.js` · `Go` · `Python` · `Tauri` · `SQL` · REST / webhooks · Salesforce · Workday
 
 ### Activity
 
-<!-- Official github-readme-stats / activity-graph Vercel apps are paused/disabled; use working mirrors. -->
 <p align="center">
-  <img height="160" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=heza-ru&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=F0EDE8&text_color=F0EDE8&icon_color=F0EDE8&ring_color=F0EDE8" alt="GitHub stats" />
-  <img height="160" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=heza-ru&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=F0EDE8&text_color=F0EDE8" alt="Top languages" />
+  <img width="100%" src="./metrics.svg" alt="GitHub metrics" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/F0EDE8/heza-ru" alt="GitHub contribution chart" />
+  <img width="100%" src="./metrics.isocalendar.svg" alt="Isometric commit calendar" />
 </p>
 
 ### Connect
