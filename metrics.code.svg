@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="312" viewBox="0 0 480 312">
+<rect width="480" height="312" fill="#0d1117"/>
+<rect width="480" height="48" fill="#161b22"/>
+<text x="16" y="30" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="600">Random code snippet</text>
+<text x="16" y="68" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11">from heza-ru/Tuneminal · cmd/tuneminal/main.go</text>
+<text x="16" y="90" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11"><tspan fill="#6e7681">2947 </tspan><tspan fill="#e6edf3"></tspan></text>
+<text x="16" y="107" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11"><tspan fill="#6e7681">2948 </tspan><tspan fill="#e6edf3">func main() {</tspan></text>
+<text x="16" y="124" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11"><tspan fill="#6e7681">2949 </tspan><tspan fill="#e6edf3">    // Add crash recovery</tspan></text>
+<text x="16" y="141" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11"><tspan fill="#6e7681">2950 </tspan><tspan fill="#e6edf3">    defer func() {</tspan></text>
+<text x="16" y="158" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11"><tspan fill="#6e7681">2951 </tspan><tspan fill="#e6edf3">        if r := recover(); r != nil {</tspan></text>
+<text x="16" y="175" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11"><tspan fill="#6e7681">2952 </tspan><tspan fill="#e6edf3">            // Silent recovery</tspan></text>
+<text x="16" y="192" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11"><tspan fill="#6e7681">2953 </tspan><tspan fill="#e6edf3">        }</tspan></text>
+<text x="16" y="209" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11"><tspan fill="#6e7681">2954 </tspan><tspan fill="#e6edf3">    }()</tspan></text>
+<text x="16" y="226" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11"><tspan fill="#6e7681">2955 </tspan><tspan fill="#e6edf3">    </tspan></text>
+<text x="16" y="243" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11"><tspan fill="#6e7681">2956 </tspan><tspan fill="#e6edf3">    // Create and run app</tspan></text>
+<text x="16" y="260" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11"><tspan fill="#6e7681">2957 </tspan><tspan fill="#e6edf3">    app := NewApp()</tspan></text>
+<text x="16" y="277" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11"><tspan fill="#6e7681">2958 </tspan><tspan fill="#e6edf3">    </tspan></text>
+<text x="16" y="300" fill="#484f58" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10">FTLoC 2025 · public source</text>
+</svg>
