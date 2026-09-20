@@ -81,7 +81,7 @@ Client-side Claude assistant with local storage and cost tracking.
 ### Connect
 
 <p align="center">
-  <img src="connect.svg" alt="Connect - Let's build something." width="100%" />
+  <img src="connect.png" alt="Connect - Let's build something." width="100%" />
 </p>
 
 <p align="center">
