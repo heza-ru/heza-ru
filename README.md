@@ -2,12 +2,7 @@
   <img src="banner.png" alt="Mohammad Haider, Engineer Designer Consultant, haider.digital" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://haider.digital"><img src="https://img.shields.io/badge/haider.digital-F0EDE8?style=flat-square&labelColor=0A0A0A&color=F0EDE8" alt="haider.digital" /></a>
-  <a href="https://www.linkedin.com/in/heza/"><img src="https://img.shields.io/badge/LinkedIn-F0EDE8?style=flat-square&labelColor=0A0A0A&color=F0EDE8" alt="LinkedIn" /></a>
-</p>
-
-**Engineer, designer, consultant.** Enterprise sales engineering at Whatfix. Builds interactive products, demos, and open source tools.
+Enterprise Sales Engineer with 3+ years of experience in AI-enabled SaaS, digital adoption, and enterprise solution engineering. Leads technical discovery, solution design, tailored demonstrations, and proofs of concept for diverse stakeholder groups, aligning integrations and adoption strategies with business needs. Secured $4M+ in new ARR, achieved a POC conversion rate of over 40%, and delivered solutions that reduced onboarding or adoption cycles by up to 70%.
 
 [haider.digital](https://haider.digital) · [linkedin.com/in/heza](https://www.linkedin.com/in/heza/) · mohammadhaider325@gmail.com
 
